@@ -57,9 +57,6 @@ LearnExpressSolution/
 ├── 📂 LearnExpress.WebAPI/        # Endpoints da API e Swagger.
 └── 📄 LearnExpress.sln            # Arquivo de solução do projeto.
 ```
-##📸 **Preview da API (Swagger UI)**
-![Swagger UI Preview](file:///C:/Users/Wesley%20Freitas/Pictures/swaggerL.png)
-
 ## 🚀 **Como Rodar o Projeto Localmente**
 
 1. Clone o repositório:
