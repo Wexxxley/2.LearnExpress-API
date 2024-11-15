@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LearnExpress.Application\LearnExpress.Application.csproj" />
+    <ProjectReference Include="..\LearnExpress.Domain\LearnExpress.Domain.csproj" />
+    <ProjectReference Include="..\LearnExpress.Infra.Data\LearnExpress.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

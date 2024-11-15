@@ -1,0 +1,15 @@
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\bin\Debug\net8.0\LearnExpress.Application.deps.json
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\bin\Debug\net8.0\LearnExpress.Application.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\bin\Debug\net8.0\LearnExpress.Application.pdb
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\bin\Debug\net8.0\LearnExpress.Domain.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\bin\Debug\net8.0\LearnExpress.Domain.pdb
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExpress.Application.csproj.AssemblyReference.cache
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExpress.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExpress.Application.AssemblyInfoInputs.cache
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExpress.Application.AssemblyInfo.cs
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExpress.Application.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExp.711E9DD6.Up2Date
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExpress.Application.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\refint\LearnExpress.Application.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\LearnExpress.Application.pdb
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Application\obj\Debug\net8.0\ref\LearnExpress.Application.dll

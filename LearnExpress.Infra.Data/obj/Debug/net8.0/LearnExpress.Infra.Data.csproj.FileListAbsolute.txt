@@ -1,0 +1,17 @@
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\bin\Debug\net8.0\LearnExpress.Infra.Data.deps.json
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\bin\Debug\net8.0\LearnExpress.Infra.Data.runtimeconfig.json
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\bin\Debug\net8.0\LearnExpress.Infra.Data.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\bin\Debug\net8.0\LearnExpress.Infra.Data.pdb
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\bin\Debug\net8.0\LearnExpress.Domain.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\bin\Debug\net8.0\LearnExpress.Domain.pdb
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.AssemblyInfo.cs
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExp.BF53C4C5.Up2Date
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\refint\LearnExpress.Infra.Data.dll
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.pdb
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\LearnExpress.Infra.Data.genruntimeconfig.cache
+C:\Users\Wesley Freitas\source\repos\LearnExpressSolution\LearnExpress.Infra.Data\obj\Debug\net8.0\ref\LearnExpress.Infra.Data.dll
